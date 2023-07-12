@@ -4,6 +4,8 @@
 
 - Project from HCMUS's 2023 Applied Mathematics and Statistics.
 
+![world pulse](samples/forREADME.png)
+
 ## Content
 
 - `lab02_project01.ipynb` contains all the tasks and requirements of the project.
