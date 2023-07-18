@@ -2,14 +2,15 @@
 
 # Color Compression with K-means clustering and numpy
 
-- Project from HCMUS's 2023 Applied Mathematics and Statistics.
+- Project from HCMUS's 2023 Applied Mathematics and Statistics course.
+- ***Disclaimer: This program only supports `RGB` color model.*** Others such as `RGBA`, `CMYK`, or `HSL`, etc. might produce questionable results or not work at all.
 
 ![world pulse](samples/forREADME.png)
 
 ## Content
 
 - `lab02_project01.ipynb` contains all the tasks and requirements of the project.
-- `Report.pdf` includes my documentation for my implementation of K-means clustering and all the required tasks.
+- `Report.pdf` includes my documentation for K-means clustering and all the required tasks.
 - `sample` folder holds the pictures that were used during implementation and documentation.
 
 ### `ColorCompressionKMeans.ipynb`
